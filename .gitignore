@@ -1,0 +1,16 @@
+# 1. Archivos de Entorno y Secretos
+.env
+.env.*
+
+# 2. Entorno Virtual de Python
+venv/
+.venv/
+
+# 3. Archivos de Caché y Bytecode
+__pycache__/
+*.pyc
+
+# 4. Bases de datos locales
+*.db
+subscribes.db
+test.db
